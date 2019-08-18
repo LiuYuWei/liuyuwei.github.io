@@ -22,19 +22,19 @@ permalink: /about/
 
 * Main skills:
 1. Programming: Python(Main), R language, Java(Learning now).
-<br>2. Data Warehouse: ETL
-<br>3. Version Control: git, data version control(DVC).
-<br>4. ML Framework: tensorflow, Keras.
-<br>5. Data visualization: Power BI, tableau, matplotlib.
-<br>6. Database: MS-SQL, phpmyadmin.
-<br>7. Cloud Platform: Azure, AWS cloud.
-<br>8. log monitor: ELK.
+2. Data Warehouse: ETL
+3. Version Control: git, data version control(DVC).
+4. ML Framework: tensorflow, Keras.
+5. Data visualization: Power BI, tableau, matplotlib.
+6. Database: MS-SQL, phpmyadmin.
+7. Cloud Platform: Azure, AWS cloud.
+8. log monitor: ELK.
 
 ### 資訊科技群 資訊服務治理處 工程師
 
 1. 菁英計畫第三屆 - 資訊科技菁英成員 
-<br>2. 參與AI相關專案獲得公司創新獎，目前申請專利與集團相關獎項中。 
-<br>3. 曾獲得IT優秀員工獎項。
+2. 參與AI相關專案獲得公司創新獎，目前申請專利與集團相關獎項中。 
+3. 曾獲得IT優秀員工獎項。
 
 # 教育背景
 
@@ -43,9 +43,9 @@ permalink: /about/
 
 * Our professional field:
 1. Application of Data Analysis and Big Data Analysis .
-<br>2. Machine Learning and Artificial neural network.
-<br>3. Mathematical model and Operational Research.
-<br>4. Others about the computer science and management.
+2. Machine Learning and Artificial neural network.
+3. Mathematical model and Operational Research.
+4. Others about the computer science and management.
 
 * Thesis : 
 The Development of Monotonic Support Vector Domain Description
@@ -60,15 +60,15 @@ The Development of Monotonic Support Vector Domain Description
 
 * Activity and Club:
 1. NTUST Transfer Student Association, Minister of Information and Secretarial Works, Summer, 2014 to Summer, 2016 | Taipei, Taiwan
-<br>2. NTUST Industrial Management summer camp member
+2. NTUST Industrial Management summer camp member
 Summer, 2014 | Taipei, Taiwan
 
 * CERTIFICATE:
 1. CERTIFICATE of Production and operations management technologist
-<br>2. CERTIFICATE of Quality management technologist
-<br>3. Chinese Institute of Industrial Engineers
-<br>4. TRIZ Innovator License
-<br>5. Google Analytics Individual Qualification
+2. CERTIFICATE of Quality management technologist
+3. Chinese Institute of Industrial Engineers
+4. TRIZ Innovator License
+5. Google Analytics Individual Qualification
 
 * Project:
 Application of Combined Metaheuristic Based Fuzzy c-means Algorithm and TD-FP-growth Algorithm to Analyze using APP
@@ -83,6 +83,6 @@ Northern Area Alumni Association, NUK
 
 * Competition:
 1. Silver medal of NUKAM Calculus competition
-<br>2. Represented our department in the Southern Programming Competition.
+2. Represented our department in the Southern Programming Competition.
 
 * Course ranking：2nd
