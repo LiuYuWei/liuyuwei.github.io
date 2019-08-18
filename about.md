@@ -39,7 +39,7 @@ permalink: /about/
 # 教育背景
 
 ## 研究所(2016-2018)
-國立成功大學 工業與資訊管理學系碩士班 畢業
+### 國立成功大學 工業與資訊管理學系碩士班 畢業
 
 * Our professional field:
 1. Application of Data Analysis and Big Data Analysis .
@@ -55,4 +55,34 @@ The Development of Monotonic Support Vector Domain Description
 * Lab's name: Artificial Intelligence Lab.
 
 ## 大學部(2012-2016)
+### 國立台灣科技大學 工業管理系大學部 畢業 (2013-2016)
+* Transfer into the department of Industrial management, NTUST in 2013.
 
+* Activity and Club:
+1. NTUST Transfer Student Association, Minister of Information and Secretarial Works, Summer, 2014 to Summer, 2016 | Taipei, Taiwan
+<br>2. NTUST Industrial Management summer camp member
+Summer, 2014 | Taipei, Taiwan
+
+* CERTIFICATE:
+1. CERTIFICATE of Production and operations management technologist
+<br>2. CERTIFICATE of Quality management technologist
+<br>3. Chinese Institute of Industrial Engineers
+<br>4. TRIZ Innovator License
+<br>5. Google Analytics Individual Qualification
+
+* Project:
+Application of Combined Metaheuristic Based Fuzzy c-means Algorithm and TD-FP-growth Algorithm to Analyze using APP
+
+* School ranking：3rd
+
+### 國立高雄大學 應用數學系 肄業 (2012-2013)
+* Enter the department of Applied Mathematics, NUK by "Multi-Star Project" in 2012 
+
+* Activity and Club:
+Northern Area Alumni Association, NUK
+
+* Competition:
+1. Silver medal of NUKAM Calculus competition
+<br>2. Represented our department in the Southern Programming Competition.
+
+* Course ranking：2nd
