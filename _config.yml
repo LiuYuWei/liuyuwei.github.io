@@ -4,13 +4,13 @@ url: "https://liuyuwei.github.io/"    # the protocol and hostname of your site, 
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 timezone: Asia/Taipei
 description: >
-  Hi, I'm Simon. Now I am working in Fareastone and Focus on AI application, AIops relation. For free to discuss with me.
+  Hi, I'm Simon. Now I am working on Fareastone and Focus on AI application, AIops relation topic. Feel free to discuss with me.
 
 # Your information
 email: simon3458@gmail.com
 author: Yu-Wei Liu, Simon
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: Hi, I'm Simon. Now I am working in Fareastone and Focus on AI application, AIops relation. For free to discuss with me.
+profile: Hi, I'm Simon. Now I am working on Fareastone and Focus on AI application, AIops relation topic. Feel free to discuss with me.
 #twitter_username: twitter_username
 github_username:  LiuYuWei
 profile_links:
