@@ -15,15 +15,14 @@ $code-font-size:     15px;
 $content-width:    800px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1000px;
 
 $color-link: #036;
 $color-link-hover: #069;
 
-
-$header-bg: #116CD6;
+$header-bg: #085BBC;
 $header-bg-hover: #78909C;
-$header-link: #CFD8DC;
+$header-link: #C9EEF1;
 $header-fg: #FFF;
 
 @mixin media-query($device) {
