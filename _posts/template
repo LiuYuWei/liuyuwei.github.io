@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "樣板"
-date:   1970-01-01 08:00
-categories: blog-test
-permalink: /archivers/test
+#layout: post
+#title:  "樣板"
+#date:   1970-01-01 08:00
+#categories: blog-test
+#permalink: /archivers/test
 ---
 
-就是個樣板
+#就是個樣板
