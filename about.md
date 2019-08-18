@@ -11,7 +11,7 @@ permalink: /about/
 
 # 工作經歷
 
-## 遠傳電信 
+## 遠傳電信 (2018-now)
 ### 轉型辦公室 新科技應用開發與維運處 工程師
 
 * 業務介紹:
@@ -30,8 +30,29 @@ permalink: /about/
 <br>7. Cloud Platform: Azure, AWS cloud.
 <br>8. log monitor: ELK.
 
-### 遠傳電信 資訊科技群 資訊服務治理處 工程師
+### 資訊科技群 資訊服務治理處 工程師
 
 1. 菁英計畫第三屆 - 資訊科技菁英成員 
 <br>2. 參與AI相關專案獲得公司創新獎，目前申請專利與集團相關獎項中。 
 <br>3. 曾獲得IT優秀員工獎項。
+
+# 教育背景
+
+## 研究所(2016-2018)
+國立成功大學 工業與資訊管理學系碩士班 畢業
+
+* Our professional field:
+1. Application of Data Analysis and Big Data Analysis .
+<br>2. Machine Learning and Artificial neural network.
+<br>3. Mathematical model and Operational Research.
+<br>4. Others about the computer science and management.
+
+* Thesis : 
+The Development of Monotonic Support Vector Domain Description
+<br>Advisor: Sheng-Tun Li
+<br>http://myweb.ncku.edu.tw/~stli/www/student.html
+
+* Lab's name: Artificial Intelligence Lab.
+
+## 大學部(2012-2016)
+
