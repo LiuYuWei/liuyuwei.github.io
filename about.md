@@ -59,9 +59,9 @@ The Development of Monotonic Support Vector Domain Description
 * Transfer into the department of Industrial management, NTUST in 2013.
 
 * Activity and Club:
-1. NTUST Transfer Student Association, Minister of Information and Secretarial Works, Summer, 2014 to Summer, 2016 | Taipei, Taiwan
+1. NTUST Transfer Student Association, Minister of Information and Secretarial Works, Summer, 2014 to Summer, 2016
 2. NTUST Industrial Management summer camp member
-Summer, 2014 | Taipei, Taiwan
+Summer, 2014
 
 * CERTIFICATE:
 1. CERTIFICATE of Production and operations management technologist
