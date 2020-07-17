@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me / CV
 permalink: /about/
 ---
 
@@ -9,37 +9,64 @@ permalink: /about/
 * github: https://github.com/LiuYuWei
 * Linkedin: https://www.linkedin.com/in/simonliuyuwei/
 
-# 工作經歷
+# Working experience
 
-## 遠傳電信 (2018-now)
-### 轉型辦公室 新科技應用開發與維運處 工程師
+## Sr. Engineer, IOT & AI Application, Transformation Office, Fareastone	(2018-now)
 
-* 業務介紹:
-<br>1. 主要負責有關公司與集團相關AI與data相關專案與產品軟體開發。
-<br>2. 協助參與有關IoT平台的開發過程。
-<br>3. 採用敏捷式軟體開發，完成公司各項相關專案。
-<br>4. 未來將朝向MLOps開發維運模式，讓AI專案能夠管控解決方案品質。
+-	MA-TO New Generation Program member.
+-	Use text mining and Deep learning to predict QA problem in text Robot.
+-	Use data analysis and user behavior data to predict the Fraud phone analysis. (Obtained patent and innovation award)
+-	Use text mining and artificial intelligence to design the intelligence Official document distribution system.
+-	Use text mining, deep learning and Azure cloud service to predict types of consumer service problem.
+-	Use text mining, deep learning and AWS cloud service to do APP function navigation
+-	Use cloud service to export millions of data from database to storage.
+-	Use object detection, object tracking to detect the object and combine the information and service with IOT Platform.
 
-* Main skills:
-1. Programming: Python(Main), R language, Java(Learning now).
-2. Data Warehouse: ETL
-3. Version Control: git, data version control(DVC).
-4. ML Framework: tensorflow, Keras.
-5. Data visualization: Power BI, tableau, matplotlib.
-6. Database: MS-SQL, phpmyadmin.
-7. Cloud Platform: Azure, AWS cloud.
-8. log monitor: ELK.
+# Programming Skill
+## Back-End Skill
+1.	Programming: Python, Java, MATLAB, R language.
+2.	Database:
+-	SQL: PostgreSQL, MySQL, SQLite.
+-	NoSQL: Cassandra, Neo4j
+- Other: Redis.
 
-### 資訊科技群 資訊服務治理處 工程師
+## Data Engineer Skill
+1.	Data ETL: NumPy, pandas, Scikit-learn.
+2.	Data Visualization: Tableau, Power BI, superset.
+3.	Web Crawler: Requests, BeautifulSoup
+4.	Text Pre-processing: Jieba
 
-1. 菁英計畫第三屆 - 資訊科技菁英成員 
-2. 參與AI相關專案獲得公司創新獎，目前申請專利與集團相關獎項中。 
-3. 曾獲得IT優秀員工獎項。
+## Machine Learning & Deep Learning
+1.	Machine Learning: libsvm, Scikit-learn, LightGBM, xgboost.
+2.	Deep Learning Framework: TensorFlow, Keras.
+3.	Image Processing: OpenCV, CNN, Yolo-base.
+4.	Text Mining: BERT, RNN-base, LSTM-base.
+5.	Model Serving: TF-Serving, OpenVINO, OpenCV.
 
-# 教育背景
+## OS System & Programming Concept
+1.	OS System: Windows, CentOS Linux, Ubuntu Linux.
+2.	Concept: Multi-Processing, Multi-Thread.
+3.	Programming Concept: Object-oriented programming.
+4.	Container: Docker image, Docker container, Dockerfile Written.
 
-## 研究所(2016-2018)
-### 國立成功大學 工業與資訊管理學系碩士班 畢業
+## DevOps Skill
+1.	Cloud Platform: Azure, AWS Cloud.
+2.	Agile Development: Scrum Development, Kanban.
+3.	Version Control: Git, GitLab, DVC, MLflow.
+4.	Monitor: Elasticsearch, Grafana, Splunk
+
+# Project & Thesis
+## Master Thesis
+The Development of Monotonic Support Vector Domain Description.
+-	Combine knowledge engineering and one-class classification method to improve our model.
+
+## Bachelor Project
+Application of Combined Metaheuristic Based Fuzzy c-means Algorithm and TD-FP-growth Algorithm to Analyze using APP.
+-	Using clustering method to separate the user.
+
+# Education
+## Master Graduated, Industrial & Information Management, NCKU(2016-2018)
+
 
 * Our professional field:
 1. Application of Data Analysis and Big Data Analysis .
@@ -54,8 +81,7 @@ The Development of Monotonic Support Vector Domain Description
 
 * Lab's name: Artificial Intelligence Lab.
 
-## 大學部(2012-2016)
-### 國立台灣科技大學 工業管理系大學部 畢業 (2013-2016)
+## Bachelor Graduated, Industrial Management, NTUST (2013-2016)
 * Transfer into the department of Industrial management, NTUST in 2013.
 
 * Activity and Club:
@@ -75,7 +101,7 @@ Application of Combined Metaheuristic Based Fuzzy c-means Algorithm and TD-FP-gr
 
 * School ranking：3rd
 
-### 國立高雄大學 應用數學系 肄業 (2012-2013)
+## Bachelor, Applied Mathematics, NUK (2012-2013)
 * Enter the department of Applied Mathematics, NUK by "Multi-Star Project" in 2012 
 
 * Activity and Club:
@@ -86,3 +112,22 @@ Northern Area Alumni Association, NUK
 2. Represented our department in the Southern Programming Competition.
 
 * Course ranking：2nd
+
+# School Club
+
+## Minister of Info. and Secretarial Works, Transfer Student Association, NTUST.
+-	Promote the information about the latest transfer news.
+-	Assume the office of an event general coordinator, such as welcome party etc.
+
+# Personal Feature
+-	Technology ability
+Enthusiastic about technology, self-learning programming, and implement in projects.
+-	Time management
+Can finish projects in requested time.
+-	Willing to try everything
+Encourage to try everything and keep studying to fulfill projects.　                          
+-	Anti-stress ability
+Take pressure as a motivation, and not afraid of setbacks.
+-	Event planning experience
+Host events in club and class, and know lots of experience
+
