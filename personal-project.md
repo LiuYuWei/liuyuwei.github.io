@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Personal-project
-permalink: /personal-project/
+title: personal portfolio
+permalink: /personalportfolio/
 ---
 
 ## 個人作品集
