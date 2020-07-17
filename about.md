@@ -4,10 +4,11 @@ title: About Me / CV
 permalink: /about/
 ---
 
-# 個人資料:
+# Personal Information
 劉育維 Liu Yu-Wei (Simon Liu) 
 * github: https://github.com/LiuYuWei
 * Linkedin: https://www.linkedin.com/in/simonliuyuwei/
+* Email: simon3458@gmail.com
 
 # Working experience
 
