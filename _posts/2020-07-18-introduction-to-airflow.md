@@ -28,7 +28,7 @@ $ docker run -d -p 8080:8080 -v /path/to/dags/on/your/local/machine/:/usr/local/
 ## 運行一個task
 - `Helloworld.py`的內容如下:
 
-```python
+```
 from airflow import DAG
 from airflow.operators import BashOperator
 from datetime import datetime, timedelta
