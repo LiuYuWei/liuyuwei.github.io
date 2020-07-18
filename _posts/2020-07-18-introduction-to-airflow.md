@@ -27,6 +27,7 @@ $ docker run -d -p 8080:8080 -v /path/to/dags/on/your/local/machine/:/usr/local/
 
 ## 運行一個task
 - `Helloworld.py`的內容如下:
+
 ```python
 from airflow import DAG
 from airflow.operators import BashOperator
@@ -75,6 +76,7 @@ t4.set_upstream(t3)
 ```
 
 把`Helloworld.py`放到`/path/to/dags/on/your/local/machine/`後運行以下指令
+
 ```
 $ airflow test Helloworld task_1 2015-06-01
 ```
