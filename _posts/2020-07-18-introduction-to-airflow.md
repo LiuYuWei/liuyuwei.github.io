@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to airflow"
-date:   2020-07-17 22:15
+date:   2020-07-18 10:09
 categories: tool
 permalink: /archivers/introduction-to-airflow
 ---
