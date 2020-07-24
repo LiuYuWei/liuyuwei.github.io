@@ -1,7 +1,7 @@
 ---
 layout: page
-title: personal portfolio
-permalink: /personal-portfolio/
+title: personal-time-schedule
+permalink: /personal-time-schedule/
 ---
 
 個人時間表
