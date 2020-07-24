@@ -27,6 +27,7 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
+    personal time schedule: /personal-time-schedule/
     Personal portfolio: /personal-portfolio/
     About/CV: /about/
     Category: /category/
