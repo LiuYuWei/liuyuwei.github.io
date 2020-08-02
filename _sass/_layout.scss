@@ -118,7 +118,7 @@ $hide-sidebar-screen-width: 1120px;
 	box-sizing: border-box;
 	padding: 30px;
 	width: $col-main-width;
-	float: right;
+	float: left;
 	animation: ebani-descend ease .5s 1;
 	h1, h2, h3, h4, .post-meta, .rss-link {
 		animation: ebani-ascend ease .5s 1;
@@ -132,7 +132,7 @@ $hide-sidebar-screen-width: 1120px;
 .col-second {
 	position: relative;
 	box-sizing: border-box;
-	float: left;
+	float: right;
 	width: $col-secnod-width;
 	padding: 20px;
 	background: #EEE;
