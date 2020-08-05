@@ -4,9 +4,9 @@ body {
 
 .wrapper {
 	margin: 0 auto;
-	max-width: 1200px;
+	max-width: 1300px;
 }
-@media (max-width: 1220px) {
+@media (max-width: 1320px) {
 	.wrapper {
 		max-width: 900px;
 	}
@@ -49,9 +49,9 @@ body {
 	}
 }
 
-$col-main-width: 900px;
-$col-secnod-width: 300px;
-$hide-sidebar-screen-width: 1220px;
+$col-main-width: 950px;
+$col-secnod-width: 350px;
+$hide-sidebar-screen-width: 1320px;
 
 .header-placeholder { position: absolute; }
 @media (max-width: $hide-sidebar-screen-width) {
