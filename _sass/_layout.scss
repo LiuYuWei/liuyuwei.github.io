@@ -49,9 +49,9 @@ body {
 	}
 }
 
-$col-main-width: 800px;
-$col-secnod-width: 300px;
-$hide-sidebar-screen-width: 1120px;
+$col-main-width: 300px;
+$col-secnod-width: 900px;
+$hide-sidebar-screen-width: 1220px;
 
 .header-placeholder { position: absolute; }
 @media (max-width: $hide-sidebar-screen-width) {
@@ -118,7 +118,7 @@ $hide-sidebar-screen-width: 1120px;
 	box-sizing: border-box;
 	padding: 30px;
 	width: $col-main-width;
-	float: left;
+	float: right;
 	animation: ebani-descend ease .5s 1;
 	h1, h2, h3, h4, .post-meta, .rss-link {
 		animation: ebani-ascend ease .5s 1;
@@ -132,7 +132,7 @@ $hide-sidebar-screen-width: 1120px;
 .col-second {
 	position: relative;
 	box-sizing: border-box;
-	float: right;
+	float: left;
 	width: $col-secnod-width;
 	padding: 20px;
 	background: #EEE;
