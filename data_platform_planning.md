@@ -6,7 +6,9 @@ permalink: /sidata.ai/
 
 # sidata.ai資料分析平台計畫
 
-Simon + data + ai = sidata.ai.
+Simon + data + ai = sidata.ai
+
+(發音很像是【塞data給ai】)
 
 一個平台建置計畫就此產生，因為我覺得，我真的想在開源上做點甚麼，但也真的很怕自己沒那個力量...
 
