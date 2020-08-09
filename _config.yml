@@ -31,6 +31,7 @@ header:
     Portfolio: /personal-portfolio/
     About/CV: /about/
     Category: /category/
+    sidata.ai-資料與人工智慧平台開發計畫: /sidata.ai/
     #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
