@@ -28,6 +28,7 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     sidata.ai 資料與人工智慧平台開發計畫: /sidata.ai/
+    Talk: /talk/
     Time schedule: /personal-time-schedule/
     Portfolio: /personal-portfolio/
     About/CV: /about/
