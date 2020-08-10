@@ -6,6 +6,8 @@ permalink: /sidata.ai/
 
 # sidata.ai資料分析平台計畫
 
+## 計畫緣由
+
 Simon + data + ai = sidata.ai
 
 一個平台建置計畫就此產生，因為我覺得，我真的想在開源上做點甚麼，但也真的很怕自己沒那個力量...
@@ -18,12 +20,27 @@ Simon + data + ai = sidata.ai
 
 平台架構目前規劃如圖所示:
 
-![image](image/data_platform_version1.png)
+![image](image/sidata_ai_0.1.0.png)
 
 將會利用下班有空的時間一步一步建立起來，
 
 如果對專案有些甚麼想法，歡迎送PR給我!
 
-專案連結如下(2020/08/10更新)，我會繼續更新:
+## Github專案連結:
 
-- [service-restfulapi-evaluation](https://github.com/LiuYuWei/service-restfulapi-evaluation)
+更新日期: 2020/08/11
+
+### Data EDA
+(更新中)
+
+### Data ETL
+(更新中)
+
+### Model Training
+- [service-classification-model-training](https://github.com/LiuYuWei/service-classification-model-training)
+
+### Model Evaluation/ Data Visualization
+- [service-data-evaluation-analysis](https://github.com/LiuYuWei/service-data-evaluation-analysis)
+
+### Model Serving/Monitoring
+(更新中)
