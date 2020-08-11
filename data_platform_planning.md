@@ -30,6 +30,9 @@ Simon + data + ai = sidata.ai
 
 更新日期: 2020/08/11
 
+### sidata.ai 產品github頁面
+- [sidata.ai](https://github.com/LiuYuWei/sidata.ai)
+
 ### Data EDA
 (更新中)
 
