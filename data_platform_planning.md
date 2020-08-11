@@ -28,7 +28,7 @@ Simon + data + ai = sidata.ai
 
 ## Github專案連結:
 
-更新日期: 2020/08/11
+更新日期: 2020/08/12
 
 ### sidata.ai 產品github頁面
 - [sidata.ai](https://github.com/LiuYuWei/sidata.ai)
