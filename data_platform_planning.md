@@ -34,7 +34,7 @@ Simon + data + ai = sidata.ai
 - [sidata.ai](https://github.com/LiuYuWei/sidata.ai)
 
 ### Data EDA
-[service-data-eda-analysis](https://github.com/LiuYuWei/service-data-eda-analysis)
+- [service-data-eda-analysis](https://github.com/LiuYuWei/service-data-eda-analysis)
 
 ### Data ETL
 (更新中)
