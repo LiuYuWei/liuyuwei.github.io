@@ -20,7 +20,7 @@ Simon + data + ai = sidata.ai
 
 平台架構目前規劃如圖所示:
 
-![image](image/sidata_ai_0.1.0.png)
+![image](image/sidata_ai_0.1.1.png)
 
 將會利用下班有空的時間一步一步建立起來，
 
