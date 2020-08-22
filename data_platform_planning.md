@@ -22,6 +22,10 @@ Simon + data + ai = sidata.ai
 
 ![image](image/sidata_ai_0.1.1.png)
 
+你可以透過以下方式進行資料分析、資料工程處理、機器學習訓練與模型服務上線:
+
+![image](image/ML_Model_Pipeline.png)
+
 將會利用下班有空的時間一步一步建立起來，
 
 如果對專案有些甚麼想法，歡迎送PR給我!
